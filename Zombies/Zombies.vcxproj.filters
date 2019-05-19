@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{5a03f0a7-568d-40de-ab21-ffedd2b5829e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{8e43f9f1-5390-4b52-a0cf-8eaefdc457d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics">
+      <UniqueIdentifier>{b35fe81a-d3b5-4101-b93d-437deff68f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Managers">
+      <UniqueIdentifier>{af699de5-fb1a-42fb-8916-e5551badc0bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Actors">
+      <UniqueIdentifier>{9b3e0fe1-22c4-4386-ae87-9928046d704e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Level">
+      <UniqueIdentifier>{afa7742d-55e4-4b6d-93cb-7e740bfe7982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Weapons">
+      <UniqueIdentifier>{28a77ff0-54c5-4220-b270-e2951ac8a354}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{25677e26-712e-46cc-8250-d3794074e5dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics">
+      <UniqueIdentifier>{3705e38f-4451-4ba7-bd3e-21dc96c899e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{eed8e536-3cdb-4c1c-8147-8c761531afc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Actors">
+      <UniqueIdentifier>{ab178cb6-f7b1-4e7d-b915-99125174fbf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Level">
+      <UniqueIdentifier>{965fc01e-3e8b-4478-96d4-d0d71bb4d1ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Entity">
+      <UniqueIdentifier>{76c6f307-e60b-4034-9f34-a8fbbb5195a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Entity">
+      <UniqueIdentifier>{08be840a-392d-46a8-bc5a-5ed41cdf82e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Managers">
+      <UniqueIdentifier>{e4a0a117-8405-4357-93f1-7ccbc730d90f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Weapons">
+      <UniqueIdentifier>{78bdab94-c81a-47e0-bbe3-a6683961d1f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Projectiles">
+      <UniqueIdentifier>{9c18e9fb-86a7-46da-96df-2aafe4389456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Projectiles">
+      <UniqueIdentifier>{4b99b43d-e787-4f4f-8557-e7051e54a45c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Actors\Enemies">
+      <UniqueIdentifier>{bc1cf841-45ce-4528-b91e-20fd3264f05a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Actors\Enemies">
+      <UniqueIdentifier>{ec61d9e5-3b02-408e-adf2-27760289a125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Events">
+      <UniqueIdentifier>{20adde2c-a481-470b-b5d9-79242efa854f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Events">
+      <UniqueIdentifier>{b5a48167-4b2f-4712-978c-4bfcc78a154e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Screens">
+      <UniqueIdentifier>{6c7b50d9-e65f-4481-b2e3-ce2d51fce21c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Screens">
+      <UniqueIdentifier>{fd7c5e1b-2487-4f3d-9790-d8f5fb66ca57}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor.cpp">
+      <Filter>Source Files\Game\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetManager.cpp">
+      <Filter>Source Files\Engine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files\Engine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Engine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="FOV.cpp">
+      <Filter>Source Files\Game\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxCollider.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleCollider.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Source Files\Game\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files\Game\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Engine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenManager.cpp">
+      <Filter>Source Files\Engine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files\Game\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Game\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysEntity.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Source Files\Game\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileManager.cpp">
+      <Filter>Source Files\Game\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsManager.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Gun.cpp">
+      <Filter>Source Files\Game\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\Engine\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Source Files\Game\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="WeaponLoader.cpp">
+      <Filter>Source Files\Game\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files\Game\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEntity.cpp">
+      <Filter>Source Files\Engine\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedTexture.cpp">
+      <Filter>Source Files\Engine\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files\Game\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Game\Actors\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinder.cpp">
+      <Filter>Source Files\Game\Actors\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Source Files\Game\Actors\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Walker.cpp">
+      <Filter>Source Files\Game\Actors\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Acid.cpp">
+      <Filter>Source Files\Game\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Source Files\Game\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Source Files\Game\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Stalker.cpp">
+      <Filter>Source Files\Game\Actors\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="LOS.cpp">
+      <Filter>Source Files\Game\Actors\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Charger.cpp">
+      <Filter>Source Files\Game\Actors\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUp.cpp">
+      <Filter>Source Files\Game\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosive.cpp">
+      <Filter>Source Files\Game\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>Source Files\Game\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayScreen.cpp">
+      <Filter>Source Files\Game\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsScreen.cpp">
+      <Filter>Source Files\Game\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScreen.cpp">
+      <Filter>Source Files\Game\Screens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BoxCollider.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleCollider.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysEntity.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsHelper.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenManager.h">
+      <Filter>Header Files\Engine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files\Engine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Engine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEntity.h">
+      <Filter>Header Files\Engine\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedTexture.h">
+      <Filter>Header Files\Engine\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetManager.h">
+      <Filter>Header Files\Engine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files\Engine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files\Engine\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="MathHelper.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Actor.h">
+      <Filter>Header Files\Game\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Header Files\Game\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="FOV.h">
+      <Filter>Header Files\Game\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>Header Files\Game\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Header Files\Game\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files\Game\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Header Files\Game\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files\Game\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Game\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files\Game\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files\Game\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponLoader.h">
+      <Filter>Header Files\Game\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files\Game\Actors\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinder.h">
+      <Filter>Header Files\Game\Actors\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Header Files\Game\Actors\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Walker.h">
+      <Filter>Header Files\Game\Actors\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectileManager.h">
+      <Filter>Header Files\Game\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Acid.h">
+      <Filter>Header Files\Game\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Header Files\Game\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Header Files\Game\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Stalker.h">
+      <Filter>Header Files\Game\Actors\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="LOS.h">
+      <Filter>Header Files\Game\Actors\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Charger.h">
+      <Filter>Header Files\Game\Actors\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUp.h">
+      <Filter>Header Files\Game\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosive.h">
+      <Filter>Header Files\Game\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>Header Files\Game\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsManager.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayScreen.h">
+      <Filter>Header Files\Game\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsScreen.h">
+      <Filter>Header Files\Game\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScreen.h">
+      <Filter>Header Files\Game\Screens</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

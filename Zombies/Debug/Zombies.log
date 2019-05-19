@@ -1,0 +1,173 @@
+﻿  Acid.cpp
+  Actor.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(194): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(195): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(259): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(260): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(281): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(282): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(297): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\actor.cpp(298): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  AnimatedTexture.cpp
+  AssetManager.cpp
+  AudioManager.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\audiomanager.cpp(79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\audiomanager.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\audiomanager.cpp(81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\audiomanager.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\audiomanager.cpp(83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\audiomanager.cpp(84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BoxCollider.cpp
+  Bullet.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\bullet.cpp(8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Charger.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\charger.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\charger.cpp(95): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\charger.cpp(115): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  CircleCollider.cpp
+  Collider.cpp
+  Enemy.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\enemy.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\enemy.cpp(79): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\enemy.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\enemy.cpp(177): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\enemy.cpp(191): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Event.cpp
+  EventManager.cpp
+  Explosion.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\explosion.cpp(9): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Explosive.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\explosive.cpp(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FOV.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\fov.cpp(114): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\fov.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GameEntity.cpp
+  GameManager.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\gamemanager.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Graphics.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(158): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(159): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(172): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(173): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(178): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\graphics.cpp(183): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Gun.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\gun.cpp(123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\gun.cpp(130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\gun.cpp(136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\gun.cpp(144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\gun.cpp(185): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\gun.cpp(187): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  InputManager.cpp
+  Interface.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\interface.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\interface.cpp(184): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\interface.cpp(192): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Level.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(11): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(130): warning C4018: '>=': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(141): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(204): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(210): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(273): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(274): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(303): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(304): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(379): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(380): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(431): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(432): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(494): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\level.cpp(495): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  LOS.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\los.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Map.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\map.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\map.cpp(307): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\map.cpp(308): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\map.cpp(337): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\map.cpp(361): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PathFinder.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\pathfinder.cpp(121): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\pathfinder.cpp(132): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\pathfinder.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\pathfinder.cpp(138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\pathfinder.cpp(149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\pathfinder.cpp(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PhysEntity.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physentity.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physentity.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physentity.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physentity.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physentity.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physentity.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  PhysicsManager.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physicsmanager.cpp(32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physicsmanager.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physicsmanager.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physicsmanager.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\physicsmanager.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(120): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(134): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(169): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(335): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(336): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\player.cpp(338): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PlayScreen.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\playscreen.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PowerUp.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\powerup.cpp(28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\projectile.cpp(67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\projectile.cpp(86): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  ProjectileManager.cpp
+  ScreenManager.cpp
+  SettingsScreen.cpp
+  Stalker.cpp
+  StartScreen.cpp
+  Texture.cpp
+  Tile.cpp
+  Generating Code...
+  Compiling...
+  Timer.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\timer.cpp(39): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Walker.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\walker.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Weapon.cpp
+c:\users\2339695\desktop\stephen benner\games\zombies\zombies\weapon.cpp(70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  WeaponLoader.cpp
+  Zombie.cpp
+  Generating Code...
+  Zombies.vcxproj -> C:\Users\2339695\Desktop\Stephen Benner\Games\Zombies\Debug\Zombies.exe
